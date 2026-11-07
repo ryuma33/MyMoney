@@ -1,6 +1,6 @@
 # 💰 MyMoney – personal finance prototype
 
-### 👉 [Click here to open the app](https://ryuma33.github.io/MyMoney/)
+### 👉 [Click here to open the app](https://ryuma33.github.io/mymoney/)
 
 Works in any browser, on a phone or a computer. On a phone, use **Add to Home Screen** to use it like an app.
 
